@@ -30,6 +30,7 @@ The zip file contains two files:
 <b>Question:</b> Have total emissions from PM2.5 decreased in the United States from 1999 to 2008? Using the base plotting system, make a plot showing the total PM2.5 emission from all sources for each of the years 1999, 2002, 2005, and 2008.
 
 <b>Answer:</b> The total amount PM2.5 emissions across the United States has decreased from 1999 to 2008. The total emissions stabilized from 2002 to 2005 but decreased from 2005-2008. 
+
 ![plot1](plot1.png) 
 
 ## Plot 2 
@@ -42,6 +43,7 @@ The zip file contains two files:
 <b>Question:</b> Of the four types of sources indicated by the <b>type</b> (point, nonpoint, onroad, nonroad) variable, which of these four sources have seen decreases in emissions from 1999–2008 for Baltimore City? Which have seen increases in emissions from 1999–2008? Use the ggplot2 plotting system to make a plot answer this question.
 
 <b>Answer:</b>  Emissions from on-road, non-point, and on-road sources all decreased from 1999 to 2008. Visible increased emissons from the point source.
+
 ![plot3](plot3.png) 
 
 ## Plot 4 
@@ -60,4 +62,5 @@ The zip file contains two files:
 <b>Question:</b> Compare emissions from motor vehicle sources in Baltimore City with emissions from motor vehicle sources in Los Angeles County, California (fips=="06037"). Which city has seen greater changes over time in motor vehicle emissions?
 
 <b>Answer:</b> Emissions related to motor vehicle sources in Baltimore City vs Los Angeles has differences. Emmissions from Los Angeles significantly over power emissions from Balitimore City. Los Angeles has not decreased motor vehicle emissions at all from 1999 to 2008 while Baltimore City decreased emissions by more than half.
+
 ![plot6](plot6.png) 
